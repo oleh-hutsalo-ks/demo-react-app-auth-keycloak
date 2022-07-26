@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//oleh-hutsalo-ks.github.io/demo-react-app-auth-keycloak/static/css/main.073c9b0a.css",
+    "main.js": "//oleh-hutsalo-ks.github.io/demo-react-app-auth-keycloak/static/js/main.d2309ed6.js",
+    "index.html": "//oleh-hutsalo-ks.github.io/demo-react-app-auth-keycloak/index.html",
+    "main.073c9b0a.css.map": "//oleh-hutsalo-ks.github.io/demo-react-app-auth-keycloak/static/css/main.073c9b0a.css.map",
+    "main.d2309ed6.js.map": "//oleh-hutsalo-ks.github.io/demo-react-app-auth-keycloak/static/js/main.d2309ed6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d2309ed6.js"
+  ]
+}
